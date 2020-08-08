@@ -4,7 +4,7 @@
   "description": "Video Chat between 2 people using simple-peer",
   "main": "main.js",
   "scripts": {
-    "start": "node server.js",
+    
     "watch": "npx watchify ./public/main.js -o ./public/bundle.js"
   },
   "author": "Subhadipta Nayak",
